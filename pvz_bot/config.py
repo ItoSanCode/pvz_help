@@ -1,6 +1,6 @@
 from db import DataBase
 
-BOT_TOKEN = "7010660174:AAEIUMWwE90SVktoLuRQRQIDfIFlDENy8n4"
+BOT_TOKEN = "token"
 
 base_data = {
     "date": "date",
